@@ -1,0 +1,5 @@
+hargapack = 900
+namapack = "deluxe_grow_spray"
+MinItemPack = 5
+maxbuy = 2
+iditempack = {1778}
